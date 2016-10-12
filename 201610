@@ -1,0 +1,1842 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+PRODID:Schedule Registration by Code For Kobe
+CALSCALE:GREGORIAN
+X-WR-CALNAME:schedule_register_for_sanda
+X-WR-CALDESC:schedule_register_for_sanda
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+BEGIN:STANDARD
+DTSTART:19390101T000000
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:JST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:SANDAEVENTymfqd
+DTSTAMP:20161009T170124
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161001T090000
+DTEND:20161001T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT88skU
+DTSTAMP:20161009T170124
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161001T100000
+DTEND:20161001T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTWLg0V
+DTSTAMP:20161009T170124
+SUMMARY:10月シニア・ユースひろば 【あそびのサロン 「卓球DAY」（10月1日開催分）】
+DESCRIPTION:異世代で卓球を楽しんでいただけます。友達同士、ご家族一緒に、みなさんでどうぞ！  http://www.city.sanda.lg.jp/kouryuu/siniayu-suhiroba28nendo/event/ta1001.html
+DTSTART:20161001T093000
+DTEND:20161001T203000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88529;35.2016
+CONTACT:三田市多世代交流館 シニア・ユースひろば 多目的フロア 079-562-8423
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTAf8u6
+DTSTAMP:20161009T170125
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161002T090000
+DTEND:20161002T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTuwhcq
+DTSTAMP:20161009T170125
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161002T100000
+DTEND:20161002T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTeXiKa
+DTSTAMP:20161009T170125
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161003T090000
+DTEND:20161003T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT19Ziw
+DTSTAMP:20161009T170125
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161003T100000
+DTEND:20161003T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT1dnBo
+DTSTAMP:20161009T170125
+SUMMARY:10月駒ケ谷運動公園子育て交流ひろば 「地域子育て支援センター てくてく みな・とっち」
+DESCRIPTION:駒ケ谷運動公園体育館の講座室で毎週3日開設している、子育て中の親子が気軽に立ち寄り、自由に遊ぶことができるひろばです。おもちゃで自由に遊べるほか、子育て支援に関する講座や催し、子育てについての相談や情報提供なども行っています。  http://www.city.sanda.lg.jp/kodomo/komagatani/28nenndo/event/10minato03.html
+DTSTART:20161003T093000
+DTEND:20161003T123000
+LOCATION:ゆりのき台1-44
+GEO:34.910977;135.179829
+CONTACT:駒ケ谷運動公園体育館 講座室 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTPI3hl
+DTSTAMP:20161009T170125
+SUMMARY:10月地域子育てステーション 「認定こども園 北摂第一幼稚園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/hokudai1003.html
+DTSTART:20161003T150000
+DTEND:20161003T170000
+LOCATION:三田市武庫が丘4-10
+GEO:34.885128;135.207039
+CONTACT:認定こども園 北摂第一幼稚園 563-7557
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTLWwI5
+DTSTAMP:20161009T170126
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161004T090000
+DTEND:20161004T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTFmFnf
+DTSTAMP:20161009T170126
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161004T100000
+DTEND:20161004T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTggJ4e
+DTSTAMP:20161009T170126
+SUMMARY:「ハローワーク活用講座」受講者募集
+DESCRIPTION:ハローワーク活用のノウハウが満載!統括職業指導官より、求人票の見方や各種窓口の活用方法など、ハローワークのいろはをわかりやすくお伝えします。実際に求人検索も体験します。  http://www.city.sanda.lg.jp/shoukou_kankou/0203.html
+DTSTART:20161004T090000
+DTEND:20161004T170000
+LOCATION:三田市天神1丁目5番25号
+GEO:;
+CONTACT:ハローワーク三田 079-563-8609
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTGsPVh
+DTSTAMP:20161009T170126
+SUMMARY:平成28年10月4日（火曜日）オープンセミナー「元気で素敵な健康長寿社会を目指して～ロコモシンドロームについて」
+DESCRIPTION:元気で素敵な健康長寿社会を目指して  http://www.city.sanda.lg.jp/gakushuu/2016104opun.html
+DTSTART:20161004T100000
+DTEND:20161004T113000
+LOCATION:三田市三田町22-19
+GEO:;
+CONTACT:さんだ市民センター 079-563-2991
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTfDzyP
+DTSTAMP:20161009T170126
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161005T090000
+DTEND:20161005T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTcyQ9m
+DTSTAMP:20161009T170126
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161005T100000
+DTEND:20161005T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTCJAPR
+DTSTAMP:20161009T170126
+SUMMARY:10月子育て交流ひろば 【親子クッキング】
+DESCRIPTION:三田の食材で秋の和食を楽しもう。  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/oyakocooking1005.html
+DTSTART:20161005T100000
+DTEND:20161005T130000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88531;135.2016
+CONTACT:三田市多世代交流館 子育て交流ひろば 調理室 和室 会議室 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTSse0x
+DTSTAMP:20161009T170126
+SUMMARY:10月子育て交流ひろば 【絵本の読み聞かせ（10月5日開催）】
+DESCRIPTION:読み聞かせグループ「わらべ」が、絵本の読み聞かせや手遊びをします。  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/yomikikase1005.html
+DTSTART:20161005T110000
+DTEND:20161005T112500
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88520;135.2015
+CONTACT:三田市多世代交流館 子育て交流ひろば フリースペース 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTTe29A
+DTSTAMP:20161009T170126
+SUMMARY:10月駒ケ谷運動公園子育て交流ひろば 「子育て支援グループ キララ」
+DESCRIPTION:駒ケ谷運動公園体育館の講座室で毎週3日開設している、子育て中の親子が気軽に立ち寄り、自由に遊ぶことができるひろばです。おもちゃで自由に遊べるほか、子育て支援に関する講座や催し、子育てについての相談や情報提供なども行っています。  http://www.city.sanda.lg.jp/kodomo/komagatani/28nenndo/event/10kirara05.html
+DTSTART:20161005T093000
+DTEND:20161005T123000
+LOCATION:ゆりのき台1-44
+GEO:34.910977;135.179829
+CONTACT:駒ケ谷運動公園体育館 講座室 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTAkLT8
+DTSTAMP:20161009T170127
+SUMMARY:10月シニア・ユースひろば 【Café de ふらっと（10月5日）】
+DESCRIPTION:障がい福祉サービス施設「三田わくわく村」がカフェを開催！  http://www.city.sanda.lg.jp/kouryuu/siniayu-suhiroba28nendo/event/cafe1005.html
+DTSTART:20161005T110000
+DTEND:20161005T140000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88528;135.2015
+CONTACT:三田市多世代交流館 シニア・ユースひろば フリースペース 079-562-8423
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTA0iRy
+DTSTAMP:20161009T170127
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161006T090000
+DTEND:20161006T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTYjlyV
+DTSTAMP:20161009T170127
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161006T100000
+DTEND:20161006T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTDvhJE
+DTSTAMP:20161009T170127
+SUMMARY:10月子育て交流ひろば 【おでかけふらっと（池尻児童館）】
+DESCRIPTION:ふらっとのスタッフが、三田市のいろいろな場所に出かけて、あそびのひろばを開催します。マットや鉄棒、おもちゃで自由に遊びましょう。お天気のときは、近くの公園に秋を見つけに行きましょう。  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/odekake1006.html
+DTSTART:20161006T100000
+DTEND:20161006T120000
+LOCATION:池尻710
+GEO:34.89070;135.1868
+CONTACT:池尻児童館（さつき会館） 2階 遊戯室 564-6881
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT9FHHF
+DTSTAMP:20161009T170127
+SUMMARY:10月駅前子育て交流ひろば 「子育て相談日」
+DESCRIPTION:駅前子育て交流ひろばでは、毎週1回、子育て相談を実施しています。  http://www.city.sanda.lg.jp/kodomo/ekimae/28nendo/event/10souhoken06.html
+DTSTART:20161006T140000
+DTEND:20161006T160000
+LOCATION:三田市駅前町2番1号 三田駅前一番館（キッピーモール）6階
+GEO:34.888020;135.228674
+CONTACT:駅前子育て交流ひろば 556-5230
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTNx8Zb
+DTSTAMP:20161009T170127
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161007T090000
+DTEND:20161007T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT58xff
+DTSTAMP:20161009T170127
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161007T100000
+DTEND:20161007T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTQwqDZ
+DTSTAMP:20161009T170128
+SUMMARY:10月子育て交流ひろば 【離乳食講座～かみかみ期～】
+DESCRIPTION:かみかみ期（8～11カ月の子ども）の離乳食について栄養士からのお話と調理実習。  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/rinyuushoku1007.html
+DTSTART:20161007T133000
+DTEND:20161007T153000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88531;135.2016
+CONTACT:三田市多世代交流館 子育て交流ひろば 調理室 和室 子どもルーム 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTMmknx
+DTSTAMP:20161009T170128
+SUMMARY:10月駒ケ谷運動公園子育て交流ひろば  「保育ネットワーク・ミルク」
+DESCRIPTION:駒ケ谷運動公園体育館の講座室で毎週3日開設している、子育て中の親子が気軽に立ち寄り、自由に遊ぶことができるひろばです。おもちゃで自由に遊べるほか、子育て支援に関する講座や催し、子育てについての相談や情報提供なども行っています。  http://www.city.sanda.lg.jp/kodomo/komagatani/28nenndo/event/10miruku07.html
+DTSTART:20161007T093000
+DTEND:20161007T123000
+LOCATION:ゆりのき台1-44
+GEO:34.910977;135.179829
+CONTACT:駒ケ谷運動公園体育館 講座室 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTBxwi5
+DTSTAMP:20161009T170128
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161008T090000
+DTEND:20161008T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTVR382
+DTSTAMP:20161009T170128
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161008T100000
+DTEND:20161008T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTv7Rk7
+DTSTAMP:20161009T170128
+SUMMARY:10月子育て交流ひろば 【みんなであそぼ！（10月8日開催）】
+DESCRIPTION:みんなで手遊びやふれあい遊びをしましょう。  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/minna1008.html
+DTSTART:20161008T111000
+DTEND:20161008T113000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88520;135.2015
+CONTACT:三田市多世代交流館 子育て交流ひろば フリースペース 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTLw7mU
+DTSTAMP:20161009T170128
+SUMMARY:10月地域子育てステーション 「三田つつじが丘認定こども園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/tutuji1008.html
+DTSTART:20161008T100000
+DTEND:20161008T130000
+LOCATION:三田市つつじが丘北2-26
+GEO:34.943132;135.128407
+CONTACT:三田つつじが丘認定こども園 568-3370
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTcy4FI
+DTSTAMP:20161009T170128
+SUMMARY:10月地域子育てステーション 「認定こども園  やよい幼稚園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/yayoi1008.html
+DTSTART:20161008T090000
+DTEND:20161008T120000
+LOCATION:三田市弥生が丘5丁目13番
+GEO:34.883455;135.193680
+CONTACT:認定こども園  やよい幼稚園 559-2322
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTNk7bU
+DTSTAMP:20161009T170128
+SUMMARY:10月シニア・ユースひろば 【あそびのサロン 「卓球DAY」（10月8日開催分）】
+DESCRIPTION:異世代で卓球を楽しんでいただけます。友達同士、ご家族一緒に、みなさんでどうぞ！  http://www.city.sanda.lg.jp/kouryuu/siniayu-suhiroba28nendo/event/ta1008.html
+DTSTART:20161008T093000
+DTEND:20161008T203000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88528;135.2015
+CONTACT:三田市多世代交流館 シニア・ユースひろば 多目的フロア 079-562-8423
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT7eMEv
+DTSTAMP:20161009T170128
+SUMMARY:10月シニア・ユースひろば 【あそびのサロン 「囲碁であそぼう」】
+DESCRIPTION:毎月第2土曜日に開催！初めてでも、ルールから学べます。  http://www.city.sanda.lg.jp/kouryuu/siniayu-suhiroba28nendo/event/igo1008.html
+DTSTART:20161008T140000
+DTEND:20161008T160000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88528;135.2015
+CONTACT:三田市多世代交流館 シニア・ユースひろば フリースペース 079-562-8423
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTO2mtx
+DTSTAMP:20161009T170128
+SUMMARY:10月シニア・ユースひろば 【多世代コーラス（10月8日）】
+DESCRIPTION:童謡から季節の歌まで、声を合わせて・・・。  http://www.city.sanda.lg.jp/kouryuu/siniayu-suhiroba28nendo/event/co1008.html
+DTSTART:20161008T100000
+DTEND:20161008T120000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88528;135.2015
+CONTACT:三田市多世代交流館 シニア・ユースひろば 多目的フロア 079-562-8423
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTLJFxP
+DTSTAMP:20161009T170129
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161009T090000
+DTEND:20161009T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTeh1DX
+DTSTAMP:20161009T170129
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161009T100000
+DTEND:20161009T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTGcZOK
+DTSTAMP:20161009T170129
+SUMMARY:平成28年10月9日（日曜日）カモン・キッズ「わくわく科学実験教室 おもしろ電気学入門」
+DESCRIPTION:たのしく自由電子を研究しよう  http://www.city.sanda.lg.jp/gakushuu/201610kamon.html
+DTSTART:20161009T100000
+DTEND:20161009T120000
+LOCATION:三田市三田町22-19
+GEO:;
+CONTACT:さんだ市民センター 079-563-2991
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTQ3WF9
+DTSTAMP:20161009T170129
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161010T090000
+DTEND:20161010T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT37lSU
+DTSTAMP:20161009T170129
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161010T100000
+DTEND:20161010T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTyfnsR
+DTSTAMP:20161009T170129
+SUMMARY:女性のための就業・チャレンジ相談
+DESCRIPTION:女性相談員が専門的な視点から、きめ細やかなアドバイスや情報提供をします。  http://www.city.sanda.lg.jp/machizukuri/dannjyo/h26/28joseinotamenoshugyochallengesoudan1010.html
+DTSTART:20161010T100000
+DTEND:20161010T170000
+LOCATION:三田市駅前町2-1キッピーモール6階
+GEO:;
+CONTACT:三田市まちづくり協働センター （相談は個室にて） 079-559-5163
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTwrINc
+DTSTAMP:20161009T170130
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161011T090000
+DTEND:20161011T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTXlPIG
+DTSTAMP:20161009T170130
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161011T100000
+DTEND:20161011T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTB5Jgj
+DTSTAMP:20161009T170130
+SUMMARY:10月駅前子育て交流ひろば 「おはなしであそぼう」
+DESCRIPTION:手遊びなど、親子で楽しめる遊びの技が繰り広げられます。  http://www.city.sanda.lg.jp/kodomo/ekimae/28nendo/event/10ohanasi11.html
+DTSTART:20161011T133000
+DTEND:20161011T170000
+LOCATION:三田市駅前町2番1号 三田駅前一番館（キッピーモール）6階
+GEO:34.888020;135.228674
+CONTACT:駅前子育て交流ひろば 556-5230
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTPXYaY
+DTSTAMP:20161009T170130
+SUMMARY:10月子育て交流ひろば 【絵本の読み聞かせ（10月11日開催）】
+DESCRIPTION:読み聞かせグループ「かたつむり」が、絵本の読み聞かせや手遊びをします。絵本の紹介や選び方のお話があります。  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/yomikikase1011.html
+DTSTART:20161011T110000
+DTEND:20161011T112500
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88520;135.2015
+CONTACT:三田市多世代交流館 子育て交流ひろば フリースペース 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT9GIgi
+DTSTAMP:20161009T170130
+SUMMARY:10月子育て交流ひろば 【ツインズあつまれ！】
+DESCRIPTION:多胎児の親子で集まり、交流しませんか？今月は、みんなでおいもを食べよう！  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/tuinzu1011.html
+DTSTART:20161011T103000
+DTEND:20161011T113000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88520;135.2015
+CONTACT:三田市多世代交流館 子育て交流ひろば 調理室・和室 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTUoVSm
+DTSTAMP:20161009T170130
+SUMMARY:10月駒ケ谷運動公園子育て交流ひろば 「地域子育て支援センター てくてく みな・とっち」
+DESCRIPTION:駒ケ谷運動公園体育館の講座室で毎週3日開設している、子育て中の親子が気軽に立ち寄り、自由に遊ぶことができるひろばです。おもちゃで自由に遊べるほか、子育て支援に関する講座や催し、子育てについての相談や情報提供なども行っています。  http://www.city.sanda.lg.jp/kodomo/komagatani/28nenndo/event/10minato11.html
+DTSTART:20161011T093000
+DTEND:20161011T123000
+LOCATION:ゆりのき台1-44
+GEO:34.910977;135.179829
+CONTACT:駒ケ谷運動公園体育館 講座室 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTLdoWd
+DTSTAMP:20161009T170130
+SUMMARY:10月地域子育てステーション 「三田こばと保育園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/kobato1011.html
+DTSTART:20161011T100000
+DTEND:20161011T113000
+LOCATION:三田市屋敷町7番25号
+GEO:34.886224;135.223299
+CONTACT:三田こばと保育園 562-4059
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTwTqPG
+DTSTAMP:20161009T170130
+SUMMARY:10月地域子育てステーション 「光の子保育園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/hikari1011.html
+DTSTART:20161011T100000
+DTEND:20161011T113000
+LOCATION:三田市あかしあ台5-30-1
+GEO:34.900843;135.188278
+CONTACT:光の子保育園 565-0052
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT0WG6e
+DTSTAMP:20161009T170130
+SUMMARY:10月地域子育てステーション 「認定こども園 北摂中央幼稚園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/hokutyu1011.html
+DTSTART:20161011T150000
+DTEND:20161011T160000
+LOCATION:三田市すずかけ台2-16
+GEO:34.901082;135.194266
+CONTACT:認定こども園 北摂中央幼稚園 565-0051
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT4pbst
+DTSTAMP:20161009T170130
+SUMMARY:10月駅前子育て交流ひろば 「身長体重測定日」
+DESCRIPTION:駅前子育て交流ひろばで、身長体重の測定を実施しています。  http://www.city.sanda.lg.jp/kodomo/ekimae/28nendo/event/10sintyo.html
+DTSTART:20161011T100000
+DTEND:20161011T170000
+LOCATION:三田市駅前町2番1号 三田駅前一番館（キッピーモール）6階
+GEO:34.888020;135.228674
+CONTACT:駅前子育て交流ひろば 556-5230
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTum5a0
+DTSTAMP:20161009T170131
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161012T090000
+DTEND:20161012T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTG6VR9
+DTSTAMP:20161009T170131
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161012T100000
+DTEND:20161012T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTWav86
+DTSTAMP:20161009T170131
+SUMMARY:10月駅前子育て交流ひろば 「身長体重測定日」
+DESCRIPTION:駅前子育て交流ひろばで、身長体重の測定を実施しています。  http://www.city.sanda.lg.jp/kodomo/ekimae/28nendo/event/10sintyo.html
+DTSTART:20161012T100000
+DTEND:20161012T170000
+LOCATION:三田市駅前町2番1号 三田駅前一番館（キッピーモール）6階
+GEO:34.888020;135.228674
+CONTACT:駅前子育て交流ひろば 556-5230
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTUP8vO
+DTSTAMP:20161009T170131
+SUMMARY:10月駅前子育て交流ひろば 「わらべうたベビーマッサージ体験版」
+DESCRIPTION:ママにも効果あり。 生後2週間から、楽しみながら赤ちゃんとのふれあいを深めます。  http://www.city.sanda.lg.jp/kodomo/ekimae/28nendo/event/10warabema12.html
+DTSTART:20161012T110000
+DTEND:20161012T114500
+LOCATION:三田市駅前町2番1号 三田駅前一番館（キッピーモール）6階
+GEO:34.888108;135.228631
+CONTACT:まちづくり協働センター 講座室 556-5230
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTXM0fk
+DTSTAMP:20161009T170131
+SUMMARY:10月駅前子育て交流ひろば 「子育て相談日」
+DESCRIPTION:駅前子育て交流ひろばでは、毎週1回、子育て相談を実施しています。  http://www.city.sanda.lg.jp/kodomo/ekimae/28nendo/event/10souhoiku12.html
+DTSTART:20161012T140000
+DTEND:20161012T160000
+LOCATION:三田市駅前町2番1号 三田駅前一番館（キッピーモール）6階
+GEO:34.888020;135.228674
+CONTACT:駅前子育て交流ひろば 556-5230
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTynEYX
+DTSTAMP:20161009T170131
+SUMMARY:10月駒ケ谷運動公園子育て交流ひろば 「三田市シルバー人材センター」
+DESCRIPTION:駒ケ谷運動公園体育館の講座室で毎週3日開設している、子育て中の親子が気軽に立ち寄り、自由に遊ぶことができるひろばです。おもちゃで自由に遊べるほか、子育て支援に関する講座や催し、子育てについての相談や情報提供なども行っています。  http://www.city.sanda.lg.jp/kodomo/komagatani/28nenndo/event/10siruba12.html
+DTSTART:20161012T093000
+DTEND:20161012T123000
+LOCATION:ゆりのき台1-44
+GEO:34.910977;135.179829
+CONTACT:駒ケ谷運動公園体育館 講座室 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTypTH4
+DTSTAMP:20161009T170131
+SUMMARY:10月地域子育てステーション 「認定こども園 三田さち幼稚園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/sati1012.html
+DTSTART:20161012T133000
+DTEND:20161012T143000
+LOCATION:三田市狭間が丘4-5
+GEO:34.880560;135.199958
+CONTACT:認定こども園 三田さち幼稚園 562-7117
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTxw6ex
+DTSTAMP:20161009T170131
+SUMMARY:10月地域子育てステーション 「認定こども園 北摂学園幼稚園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/hokugaku1012.html
+DTSTART:20161012T150000
+DTEND:20161012T160000
+LOCATION:三田市学園7-1-3
+GEO:34.905185;135.163478
+CONTACT:認定こども園 北摂学園幼稚園 565-8585
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT6Jp5k
+DTSTAMP:20161009T170131
+SUMMARY:10月シニア・ユースひろば 【Café de ふらっと（10月12日）】
+DESCRIPTION:地域活動支援センター「トークゆうゆう」がカフェを開催！  http://www.city.sanda.lg.jp/kouryuu/siniayu-suhiroba28nendo/event/cafe1012.html
+DTSTART:20161012T110000
+DTEND:20161012T143000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88528;135.2015
+CONTACT:三田市多世代交流館 シニア・ユースひろば フリースペース 079-562-8423
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTXtE7u
+DTSTAMP:20161009T170131
+SUMMARY:10月シニア・ユースひろば 【微笑みひろば 「絵手紙」】
+DESCRIPTION:自分が見たまま、感じたままに…気軽に描いてみましょう！  http://www.city.sanda.lg.jp/kouryuu/siniayu-suhiroba28nendo/event/hohoemi1012.html
+DTSTART:20161012T110000
+DTEND:20161012T120000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88528;135.2015
+CONTACT:三田市多世代交流館 シニア・ユースひろば フリースペース 079-562-8423
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTFW9GV
+DTSTAMP:20161009T170131
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161013T090000
+DTEND:20161013T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT7vhDL
+DTSTAMP:20161009T170132
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161013T100000
+DTEND:20161013T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTgw7oM
+DTSTAMP:20161009T170132
+SUMMARY:10月駅前子育て交流ひろば 「身長体重測定日」
+DESCRIPTION:駅前子育て交流ひろばで、身長体重の測定を実施しています。  http://www.city.sanda.lg.jp/kodomo/ekimae/28nendo/event/10sintyo.html
+DTSTART:20161013T100000
+DTEND:20161013T170000
+LOCATION:三田市駅前町2番1号 三田駅前一番館（キッピーモール）6階
+GEO:34.888020;135.228674
+CONTACT:駅前子育て交流ひろば 556-5230
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTnFyhl
+DTSTAMP:20161009T170132
+SUMMARY:10月地域子育て支援センター「第6回 子育てあいあい講座（10月13日開催）」
+DESCRIPTION:  http://www.city.sanda.lg.jp/kodomo/shiennsenta-/2016/event/aiai10.html
+DTSTART:20161013T103000
+DTEND:20161013T113000
+LOCATION:三田市四ツ辻1430
+GEO:34.949086;135.158148
+CONTACT:地域子育て支援センター（湊川短期大学内） 560-7109
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTYBQ0q
+DTSTAMP:20161009T170132
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161014T090000
+DTEND:20161014T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTPpXm7
+DTSTAMP:20161009T170132
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161014T100000
+DTEND:20161014T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTRqGdQ
+DTSTAMP:20161009T170132
+SUMMARY:人権を学ぶ啓発講座(誰もが幸せに生きるまちをめざして)
+DESCRIPTION:  http://www.city.sanda.lg.jp/jinken/20161014ibentokarenda.html
+DTSTART:20161014T190000
+DTEND:20161014T210000
+LOCATION:三田市三田町22-19
+GEO:;
+CONTACT:さんだ市民センター 079-563-2991
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT5wTGt
+DTSTAMP:20161009T170132
+SUMMARY:10月子育て交流ひろば 【すくすく子育て相談】
+DESCRIPTION:卒乳・断乳の方法とコツ  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/sukusuku1014.html
+DTSTART:20161014T103000
+DTEND:20161014T113000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88520;135.2015
+CONTACT:三田市多世代交流館 シニア・ユースひろば 多目的フロア 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTPNu32
+DTSTAMP:20161009T170132
+SUMMARY:10月駒ケ谷運動公園子育て交流ひろば 「地域子育て支援センター てくてく みな・とっち」
+DESCRIPTION:駒ケ谷運動公園体育館の講座室で毎週3日開設している、子育て中の親子が気軽に立ち寄り、自由に遊ぶことができるひろばです。おもちゃで自由に遊べるほか、子育て支援に関する講座や催し、子育てについての相談や情報提供なども行っています。  http://www.city.sanda.lg.jp/kodomo/komagatani/28nenndo/event/10minato14.html
+DTSTART:20161014T093000
+DTEND:20161014T123000
+LOCATION:ゆりのき台1-44
+GEO:34.910977;135.179829
+CONTACT:駒ケ谷運動公園体育館 講座室 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTVeUxW
+DTSTAMP:20161009T170132
+SUMMARY:10月地域子育てステーション 「三田けやき台認定こども園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/keyaki1014.html
+DTSTART:20161014T092000
+DTEND:20161014T120000
+LOCATION:三田市けやき台3-64 
+GEO:34.912853;135.193567
+CONTACT:三田けやき台認定こども園 565-4885
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTPnz8m
+DTSTAMP:20161009T170133
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161015T090000
+DTEND:20161015T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTQPt1D
+DTSTAMP:20161009T170133
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161015T100000
+DTEND:20161015T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT3W6Lc
+DTSTAMP:20161009T170133
+SUMMARY:第2回家庭教育学級合同フォーラム
+DESCRIPTION:親子でいっしょに「ちめいどの」歌に乗せて「キッピー体操」を体験しよう！  http://www.city.sanda.lg.jp/kodomo/20161015.html
+DTSTART:20161015T090000
+DTEND:20161015T170000
+LOCATION:三田市川除675
+GEO:;
+CONTACT:総合福祉保健センター　多目的ホール 079-559-5700
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTwPMdf
+DTSTAMP:20161009T170133
+SUMMARY:10月地域子育てステーション 「認定こども園  やよい幼稚園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/yayoi1015.html
+DTSTART:20161015T090000
+DTEND:20161015T120000
+LOCATION:三田市弥生が丘5丁目13番
+GEO:34.883455;135.193680
+CONTACT:認定こども園  やよい幼稚園 559-2322
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTQYfPR
+DTSTAMP:20161009T170133
+SUMMARY:10月シニア・ユースひろば 【あそびのサロン 「卓球DAY」（10月15日開催分）】
+DESCRIPTION:異世代で卓球を楽しんでいただけます。友達同士、ご家族一緒に、みなさんでどうぞ！  http://www.city.sanda.lg.jp/kouryuu/siniayu-suhiroba28nendo/event/ta1015.html
+DTSTART:20161015T093000
+DTEND:20161015T203000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88528;135.2015
+CONTACT:三田市多世代交流館 シニア・ユースひろば 多目的フロア 079-562-8423
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENToBfOu
+DTSTAMP:20161009T170133
+SUMMARY:10月シニア・ユースひろば 【あそびのサロン 「将棋であそぼう」】
+DESCRIPTION:毎月第3土曜日に開催！子どもと大人が対局を通じて交流しています。  http://www.city.sanda.lg.jp/kouryuu/siniayu-suhiroba28nendo/event/sho1015.html
+DTSTART:20161015T140000
+DTEND:20161015T160000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88528;135.2015
+CONTACT:三田市多世代交流館 シニア・ユースひろば フリースペース 079-562-8423
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTQhFMD
+DTSTAMP:20161009T170133
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161016T090000
+DTEND:20161016T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT4MBRF
+DTSTAMP:20161009T170133
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161016T100000
+DTEND:20161016T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTPB7KM
+DTSTAMP:20161009T170133
+SUMMARY:10月子育て交流ひろば 【みんなであそぼ！（10月16日開催）】
+DESCRIPTION:みんなで手遊びやふれあい遊びをしましょう。  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/minnna1018.html
+DTSTART:20161016T111000
+DTEND:20161016T113000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88520;135.2015
+CONTACT:三田市多世代交流館 子育て交流ひろば フリースペース 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTwUo7y
+DTSTAMP:20161009T170133
+SUMMARY:平和施設見学報告会の開催について
+DESCRIPTION:  http://www.city.sanda.lg.jp/jinken/20161016ibentokarenda-.html
+DTSTART:20161016T133000
+DTEND:20161016T160000
+LOCATION:三田市天神1丁目3番1号
+GEO:;
+CONTACT:三田市総合文化センター 079-559-8100
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTtCynS
+DTSTAMP:20161009T170134
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161017T090000
+DTEND:20161017T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTMTXua
+DTSTAMP:20161009T170134
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161017T100000
+DTEND:20161017T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTiuNrp
+DTSTAMP:20161009T170134
+SUMMARY:10月駒ケ谷運動公園子育て交流ひろば  「保育ネットワーク・ミルク」
+DESCRIPTION:駒ケ谷運動公園体育館の講座室で毎週3日開設している、子育て中の親子が気軽に立ち寄り、自由に遊ぶことができるひろばです。おもちゃで自由に遊べるほか、子育て支援に関する講座や催し、子育てについての相談や情報提供なども行っています。  http://www.city.sanda.lg.jp/kodomo/komagatani/28nenndo/event/10miruku17.html
+DTSTART:20161017T093000
+DTEND:20161017T123000
+LOCATION:ゆりのき台1-44
+GEO:34.910977;135.179829
+CONTACT:駒ケ谷運動公園体育館 講座室 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTCPLqz
+DTSTAMP:20161009T170134
+SUMMARY:10月地域子育てステーション 「ゆうかり保育園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。お子様と一緒に、親子で楽しい時間を過ごしませんか。お家では、なかなかできない遊びを中心に考えています。  http://www.city.sanda.lg.jp/kodomo/station/2016/yukari1017.html
+DTSTART:20161017T100000
+DTEND:20161017T110000
+LOCATION:三田市狭間が丘2-20
+GEO:34.881322;135.207241
+CONTACT:ゆうかり保育園 562-0250
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTZwuoo
+DTSTAMP:20161009T170134
+SUMMARY:10月地域子育てステーション 「あいの保育園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/aino1017.html
+DTSTART:20161017T100000
+DTEND:20161017T113000
+LOCATION:三田市下相野1904
+GEO:34.945374;135.162517
+CONTACT:あいの保育園 568-6292
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTGRBBj
+DTSTAMP:20161009T170134
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161018T090000
+DTEND:20161018T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT3Ezxb
+DTSTAMP:20161009T170134
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161018T100000
+DTEND:20161018T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT0PAfH
+DTSTAMP:20161009T170135
+SUMMARY:10月子育て交流ひろば 【おしゃべりサロン】
+DESCRIPTION:パパ、ママ達へ 「気軽に集まって楽しくおしゃべりしましょう！」  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/osyaberi1018.html
+DTSTART:20161018T103000
+DTEND:20161018T113000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88520;135.2015
+CONTACT:三田市多世代交流館 子育て交流ひろば 子どもルーム 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTFogF6
+DTSTAMP:20161009T170135
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161019T090000
+DTEND:20161019T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT16nQu
+DTSTAMP:20161009T170135
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161019T100000
+DTEND:20161019T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENToH4z2
+DTSTAMP:20161009T170135
+SUMMARY:10月子育て交流ひろば【おでかけふらっと～いもほり遠足に行こう！～】
+DESCRIPTION:ちびいもちゃん、でぶいもちゃん、どんなおいもが掘れるかな？  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/odekake1019.html
+DTSTART:20161019T103000
+DTEND:20161019T113000
+LOCATION:下青野公園前
+GEO:34.96007;135.2043
+CONTACT:さんだ下青野ふれあい農園（現地集合） 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT4sYtl
+DTSTAMP:20161009T170135
+SUMMARY:10月駒ケ谷運動公園子育て交流ひろば 「子育て支援グループ キララ」
+DESCRIPTION:駒ケ谷運動公園体育館の講座室で毎週3日開設している、子育て中の親子が気軽に立ち寄り、自由に遊ぶことができるひろばです。おもちゃで自由に遊べるほか、子育て支援に関する講座や催し、子育てについての相談や情報提供なども行っています。  http://www.city.sanda.lg.jp/kodomo/komagatani/28nenndo/event/10kirara19.html
+DTSTART:20161019T093000
+DTEND:20161019T123000
+LOCATION:ゆりのき台1-44
+GEO:34.910977;135.179829
+CONTACT:駒ケ谷運動公園体育館 講座室 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTEgpo3
+DTSTAMP:20161009T170135
+SUMMARY:10月地域子育てステーション 「認定こども園 三田さち幼稚園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/sati1019.html
+DTSTART:20161019T100000
+DTEND:20161019T113000
+LOCATION:三田市狭間が丘4-5
+GEO:34.880919;135.200027
+CONTACT:認定こども園 三田さち幼稚園 562-7117
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTbCCvM
+DTSTAMP:20161009T170135
+SUMMARY:10月シニア・ユースひろば 【Café de ふらっと（10月19日）】
+DESCRIPTION:障がい福祉サービス施設「三田わくわく村」がカフェを開催！  http://www.city.sanda.lg.jp/kouryuu/siniayu-suhiroba28nendo/event/cafe1019.html
+DTSTART:20161019T110000
+DTEND:20161019T140000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88528;135.2015
+CONTACT:三田市多世代交流館 シニア・ユースひろば フリースペース 079-562-8423
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTWdTke
+DTSTAMP:20161009T170135
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161020T090000
+DTEND:20161020T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTtvXw1
+DTSTAMP:20161009T170136
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161020T100000
+DTEND:20161020T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTvSbnH
+DTSTAMP:20161009T170136
+SUMMARY:10月駅前子育て交流ひろば 「子育て相談日」
+DESCRIPTION:駅前子育て交流ひろばでは、毎週1回、子育て相談を実施しています。  http://www.city.sanda.lg.jp/kodomo/ekimae/28nendo/event/10soujyosa20.html
+DTSTART:20161020T140000
+DTEND:20161020T160000
+LOCATION:三田市駅前町2番1号 三田駅前一番館（キッピーモール）6階
+GEO:34.888020;135.228674
+CONTACT:駅前子育て交流ひろば 556-5230
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTymURW
+DTSTAMP:20161009T170136
+SUMMARY:10月地域子育て支援センター  「おはなし会」
+DESCRIPTION:絵本の読み聞かせ  http://www.city.sanda.lg.jp/kodomo/shiennsenta-/2016/event/ohana10.html
+DTSTART:20161020T114500
+DTEND:20161020T170000
+LOCATION:三田市四ツ辻1430
+GEO:34.906110;135.187487
+CONTACT:地域子育て支援センター（湊川短期大学内） 560-7109
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTYq5RO
+DTSTAMP:20161009T170136
+SUMMARY:10月地域子育てステーション 「認定こども園 北摂学園幼稚園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/hokugaku1020.html
+DTSTART:20161020T150000
+DTEND:20161020T160000
+LOCATION:三田市学園7-1-3
+GEO:34.905185;135.163478
+CONTACT:認定こども園 北摂学園幼稚園 565-8585
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTvKPwX
+DTSTAMP:20161009T170136
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161021T090000
+DTEND:20161021T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTFKIxM
+DTSTAMP:20161009T170136
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161021T100000
+DTEND:20161021T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTnBEn5
+DTSTAMP:20161009T170136
+SUMMARY:10月駒ケ谷運動公園子育て交流ひろば 「地域子育て支援センター てくてく みな・とっち」
+DESCRIPTION:駒ケ谷運動公園体育館の講座室で毎週3日開設している、子育て中の親子が気軽に立ち寄り、自由に遊ぶことができるひろばです。おもちゃで自由に遊べるほか、子育て支援に関する講座や催し、子育てについての相談や情報提供なども行っています。  http://www.city.sanda.lg.jp/kodomo/komagatani/28nenndo/event/10minato21.html
+DTSTART:20161021T093000
+DTEND:20161021T123000
+LOCATION:ゆりのき台1-44
+GEO:34.910977;135.179829
+CONTACT:駒ケ谷運動公園体育館 講座室 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT5Dw4x
+DTSTAMP:20161009T170136
+SUMMARY:人権を学ぶ啓発講座(ありのままがココチイイ)
+DESCRIPTION:  http://www.city.sanda.lg.jp/jinken/281021keihatukouzaibento.html
+DTSTART:20161021T103000
+DTEND:20161021T123000
+LOCATION:三田市弥生が丘1丁目1-2
+GEO:;
+CONTACT:多世代交流館 多目的フロア 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTgEyCp
+DTSTAMP:20161009T170137
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161022T090000
+DTEND:20161022T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTqj4JZ
+DTSTAMP:20161009T170137
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161022T100000
+DTEND:20161022T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTdEpGn
+DTSTAMP:20161009T170137
+SUMMARY:子どものやわらかなこころを育てる絵本の選び方
+DESCRIPTION:【子どものやわらかなこころを育てる絵本の選び方】～男の子も女の子も、人生を豊かにする絵本に出会うために～  http://www.city.sanda.lg.jp/machizukuri/dannjyo/h26/ehonerbikata16.html
+DTSTART:20161022T140000
+DTEND:20161022T153000
+LOCATION:三田市駅前町2-1 キッピーモール6階
+GEO:;
+CONTACT:三田市まちづくり協働センター 多目的ホール3 079-559-5163
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTuIIdL
+DTSTAMP:20161009T170137
+SUMMARY:10月地域子育てステーション 「認定こども園  やよい幼稚園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/yayoi1022.html
+DTSTART:20161022T100000
+DTEND:20161022T150000
+LOCATION:三田市弥生が丘5丁目13番
+GEO:34.883455;135.193680
+CONTACT:認定こども園  やよい幼稚園 559-2322
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTd9eSO
+DTSTAMP:20161009T170137
+SUMMARY:10月シニア・ユースひろば 【あそびのサロン 「卓球DAY」（10月22日開催分）】
+DESCRIPTION:異世代で卓球を楽しんでいただけます。友達同士、ご家族一緒に、みなさんでどうぞ！  http://www.city.sanda.lg.jp/kouryuu/siniayu-suhiroba28nendo/event/ta1022.html
+DTSTART:20161022T093000
+DTEND:20161022T203000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88528;135.2015
+CONTACT:三田市多世代交流館 シニア・ユースひろば 多目的フロア 079-562-8423
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT8gcue
+DTSTAMP:20161009T170137
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161023T090000
+DTEND:20161023T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTPxUN1
+DTSTAMP:20161009T170137
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161023T100000
+DTEND:20161023T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTf9nA3
+DTSTAMP:20161009T170137
+SUMMARY:自転車・家具の展示提供
+DESCRIPTION:  http://www.city.sanda.lg.jp/clean_c/20160522tenjiteikyouibento.html
+DTSTART:20161023T090000
+DTEND:20161023T170000
+LOCATION:三田市香下1676
+GEO:34.922606;135.257037
+CONTACT:三田市クリーンセンター内リサイクルセンター 079-563-5551
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTYmFMR
+DTSTAMP:20161009T170137
+SUMMARY:第5回川本幸民に続け！さんだ子ども科学教室のご案内
+DESCRIPTION:  http://www.city.sanda.lg.jp/kyouiku/h28koumin-annai5.html
+DTSTART:20161023T103000
+DTEND:20161023T123000
+LOCATION:三田市屋敷町７－３３
+GEO:;
+CONTACT:三田ふるさと学習館　2階　川本幸民研究室 563-5587
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTZQG9X
+DTSTAMP:20161009T170138
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161024T090000
+DTEND:20161024T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTJ261d
+DTSTAMP:20161009T170138
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161024T100000
+DTEND:20161024T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTWNwP2
+DTSTAMP:20161009T170138
+SUMMARY:10月駒ケ谷運動公園子育て交流ひろば  「保育ネットワーク・ミルク」
+DESCRIPTION:駒ケ谷運動公園体育館の講座室で毎週3日開設している、子育て中の親子が気軽に立ち寄り、自由に遊ぶことができるひろばです。おもちゃで自由に遊べるほか、子育て支援に関する講座や催し、子育てについての相談や情報提供なども行っています。  http://www.city.sanda.lg.jp/kodomo/komagatani/28nenndo/event/10miruku24.html
+DTSTART:20161024T093000
+DTEND:20161024T123000
+LOCATION:ゆりのき台1-44
+GEO:34.910977;135.179829
+CONTACT:駒ケ谷運動公園体育館 講座室 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTqluX5
+DTSTAMP:20161009T170138
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161025T090000
+DTEND:20161025T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT9ADmB
+DTSTAMP:20161009T170138
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161025T100000
+DTEND:20161025T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTMgF2J
+DTSTAMP:20161009T170138
+SUMMARY:10月駅前子育て交流ひろば 「絵本のよみきかせ」
+DESCRIPTION:毎月第4火曜日に実施しています。  http://www.city.sanda.lg.jp/kodomo/ekimae/28nendo/event/10ehonnyo25.html
+DTSTART:20161025T110000
+DTEND:20161025T170000
+LOCATION:三田市駅前町2番1号 三田駅前一番館（キッピーモール）6階
+GEO:34.888020;135.228674
+CONTACT:駅前子育て交流ひろば 556-5230
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTiB0lV
+DTSTAMP:20161009T170138
+SUMMARY:10月駅前子育て交流ひろば 「子育て相談日」
+DESCRIPTION:駅前子育て交流ひろばでは、毎週1回、子育て相談を実施しています。  http://www.city.sanda.lg.jp/kodomo/ekimae/28nendo/event/10soukannri27.html
+DTSTART:20161025T140000
+DTEND:20161025T160000
+LOCATION:三田市駅前町2番1号 三田駅前一番館（キッピーモール）6階
+GEO:34.888020;135.228674
+CONTACT:駅前子育て交流ひろば 556-5230
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTB9zP0
+DTSTAMP:20161009T170138
+SUMMARY:10月地域子育てステーション 「三田こばと保育園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/kobato1025.html
+DTSTART:20161025T133000
+DTEND:20161025T150000
+LOCATION:三田市屋敷町7番25号
+GEO:34.886107;135.222762
+CONTACT:三田こばと保育園 562-4059
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT2523V
+DTSTAMP:20161009T170139
+SUMMARY:10月地域子育てステーション 「よこやま保育園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/yokoya1025.html
+DTSTART:20161025T095000
+DTEND:20161025T105000
+LOCATION:三田市南が丘2-9-5
+GEO:34.876538;135.219177
+CONTACT:よこやま保育園 553-8707
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTwX5iF
+DTSTAMP:20161009T170139
+SUMMARY:10月地域子育てステーション 「認定こども園 北摂中央幼稚園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/hokutyu1025.html
+DTSTART:20161025T150000
+DTEND:20161025T160000
+LOCATION:三田市すずかけ台2-16
+GEO:34.901082;135.194266
+CONTACT:認定こども園 北摂中央幼稚園 565-0051
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTc8mRC
+DTSTAMP:20161009T170139
+SUMMARY:事業者必見！介護離職を防ごう！〜介護をしながら働ける職場環境をめざして〜
+DESCRIPTION:事業者必見！介護離職を防ごう！〜介護をしながら働ける職場環境をめざして〜  http://www.city.sanda.lg.jp/machizukuri/dannjyo/h26/worklifebalance16.html
+DTSTART:20161025T140000
+DTEND:20161025T160000
+LOCATION:三田市駅前町2-1 キッピーモール6階
+GEO:;
+CONTACT:三田市まちづくり協働センター 多目的ホール3 079-559-5163
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENToVv8J
+DTSTAMP:20161009T170139
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161026T090000
+DTEND:20161026T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTG33iP
+DTSTAMP:20161009T170139
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161026T100000
+DTEND:20161026T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTSYj3o
+DTSTAMP:20161009T170139
+SUMMARY:10月地域子育て支援センター「子育ておしゃべり会」
+DESCRIPTION:  http://www.city.sanda.lg.jp/kodomo/shiennsenta-/2016/event/oosyabe10.html
+DTSTART:20161026T103000
+DTEND:20161026T120000
+LOCATION:三田市四ツ辻1430
+GEO:34.906110;135.187487
+CONTACT:湊川短期大学内  プレイルーム 560-7109
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTwDoLV
+DTSTAMP:20161009T170139
+SUMMARY:10月子育て交流ひろば 【ベビーサロン（0～11カ月まで）】
+DESCRIPTION:0歳のお子さんと保護者の方へ 「楽しく交流しましょう！」子育てのワンポイントアドバイス、ふれあい遊び、読み聞かせなどもあります。  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/baby1026.html
+DTSTART:20161026T103000
+DTEND:20161026T113000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88520;135.2015
+CONTACT:三田市多世代交流館 子育て交流ひろば 子どもルーム 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT2PMfv
+DTSTAMP:20161009T170139
+SUMMARY:10月駒ケ谷運動公園子育て交流ひろば 「三田市シルバー人材センター」
+DESCRIPTION:駒ケ谷運動公園体育館の講座室で毎週3日開設している、子育て中の親子が気軽に立ち寄り、自由に遊ぶことができるひろばです。おもちゃで自由に遊べるほか、子育て支援に関する講座や催し、子育てについての相談や情報提供なども行っています。  http://www.city.sanda.lg.jp/kodomo/komagatani/28nenndo/event/10siruba26.html
+DTSTART:20161026T093000
+DTEND:20161026T123000
+LOCATION:ゆりのき台1-44
+GEO:34.910977;135.179829
+CONTACT:駒ケ谷運動公園体育館 講座室 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTFElOu
+DTSTAMP:20161009T170139
+SUMMARY:10月地域子育てステーション 「認定こども園 北摂第一幼稚園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/hokudai1026.html
+DTSTART:20161026T150000
+DTEND:20161026T170000
+LOCATION:三田市武庫が丘4-10
+GEO:34.885066;135.206996
+CONTACT:認定こども園 北摂第一幼稚園 563-7557
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTiGKt0
+DTSTAMP:20161009T170139
+SUMMARY:10月地域子育てステーション 「親和幼稚園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/shinnwa1026.html
+DTSTART:20161026T100000
+DTEND:20161026T120000
+LOCATION:三田市ゆりのき台5-43
+GEO:34.917714;135.178147
+CONTACT:親和幼稚園 565-5506
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTanbLL
+DTSTAMP:20161009T170140
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161027T090000
+DTEND:20161027T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTukR9S
+DTSTAMP:20161009T170140
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161027T100000
+DTEND:20161027T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT4Oo5s
+DTSTAMP:20161009T170140
+SUMMARY:10月子育て交流ひろば 【おはなし会＆お誕生会】
+DESCRIPTION:人形劇「ぐりとぐら」など就学前の10月生まれの子どもにお誕生カードをプレゼント！身長・体重を測って手形を押します。みんなで10月生まれの子どもたちをお祝いしましょう。  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/otanjyoukai1027.html
+DTSTART:20161027T110000
+DTEND:20161027T120000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88520;135.2015
+CONTACT:三田市多世代交流館 子育て交流ひろば フリースペース 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTFGxrb
+DTSTAMP:20161009T170140
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161028T090000
+DTEND:20161028T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTPz4gZ
+DTSTAMP:20161009T170140
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161028T100000
+DTEND:20161028T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTg3zPN
+DTSTAMP:20161009T170140
+SUMMARY:人権を学ぶ啓発講座(誰もが幸せに生きるまちをめざして)
+DESCRIPTION:  http://www.city.sanda.lg.jp/jinken/20161028ibentokarenda.html
+DTSTART:20161028T190000
+DTEND:20161028T210000
+LOCATION:三田市三田町22-19
+GEO:;
+CONTACT:さんだ市民センター 079-563-2991
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTaI6VW
+DTSTAMP:20161009T170140
+SUMMARY:10月地域子育て支援センター  「子育て応援団」
+DESCRIPTION:親子での活動を通じて、子育て仲間づくりを応援します。  http://www.city.sanda.lg.jp/kodomo/shiennsenta-/2016/event/ouen10.html
+DTSTART:20161028T103000
+DTEND:20161028T113000
+LOCATION:三田市けやき台1-4-1
+GEO:34.906110;135.187487
+CONTACT:ウッディタウン市民センター 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTsNPu4
+DTSTAMP:20161009T170141
+SUMMARY:10月子育て交流ひろば 【おりがみであそぼう】
+DESCRIPTION:おじいちゃん、おばあちゃんとおりがみであそびましょう。  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/oribami1028.html
+DTSTART:20161028T103000
+DTEND:20161028T112000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88520;135.2015
+CONTACT:三田市多世代交流館 子育て交流ひろば フリースペース 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTpHyq0
+DTSTAMP:20161009T170141
+SUMMARY:10月駒ケ谷運動公園子育て交流ひろば  「保育ネットワーク・ミルク」
+DESCRIPTION:駒ケ谷運動公園体育館の講座室で毎週3日開設している、子育て中の親子が気軽に立ち寄り、自由に遊ぶことができるひろばです。おもちゃで自由に遊べるほか、子育て支援に関する講座や催し、子育てについての相談や情報提供なども行っています。  http://www.city.sanda.lg.jp/kodomo/komagatani/28nenndo/event/10miruku28.html
+DTSTART:20161028T093000
+DTEND:20161028T123000
+LOCATION:ゆりのき台1-44
+GEO:34.910977;135.179829
+CONTACT:駒ケ谷運動公園体育館 講座室 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTxucAP
+DTSTAMP:20161009T170141
+SUMMARY:10月地域子育てステーション 「キッズポート保育園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/kizzu1028.html
+DTSTART:20161028T100000
+DTEND:20161028T113000
+LOCATION:三田市すずかけ台2ー16
+GEO:34.900977;135.194472
+CONTACT:キッズポート保育園 569-8653
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTv0XB2
+DTSTAMP:20161009T170141
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161029T090000
+DTEND:20161029T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTE6CFy
+DTSTAMP:20161009T170141
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161029T100000
+DTEND:20161029T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTE5hpi
+DTSTAMP:20161009T170141
+SUMMARY:10月地域子育てステーション 「認定こども園  やよい幼稚園」
+DESCRIPTION:在宅の子育てをしている親と子が一緒に遊んだり、気軽に子育て相談ができる場所を提供しています。  http://www.city.sanda.lg.jp/kodomo/station/2016/yayoi1029.html
+DTSTART:20161029T090000
+DTEND:20161029T120000
+LOCATION:三田市弥生が丘5丁目13番
+GEO:34.883455;135.193680
+CONTACT:認定こども園  やよい幼稚園 559-2322
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTGk8yP
+DTSTAMP:20161009T170141
+SUMMARY:10月シニア・ユースひろば 【あそびのサロン 「卓球DAY」（10月29日開催分）】
+DESCRIPTION:異世代で卓球を楽しんでいただけます。友達同士、ご家族一緒に、みなさんでどうぞ！  http://www.city.sanda.lg.jp/kouryuu/siniayu-suhiroba28nendo/event/ta1029.html
+DTSTART:20161029T093000
+DTEND:20161029T203000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88528;135.2015
+CONTACT:三田市多世代交流館 シニア・ユースひろば 多目的フロア 079-562-8423
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENToG2IO
+DTSTAMP:20161009T170141
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161030T090000
+DTEND:20161030T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTxmvHw
+DTSTAMP:20161009T170142
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161030T100000
+DTEND:20161030T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTfzCcy
+DTSTAMP:20161009T170142
+SUMMARY:10月シニア・ユースひろば 【Café de ふらっと（10月30日）】
+DESCRIPTION:地域活動支援センター「トークゆうゆう」がふらっとフェスティバル内にて、カフェを開催！  http://www.city.sanda.lg.jp/kouryuu/siniayu-suhiroba28nendo/event/cafe1030.html
+DTSTART:20161030T110000
+DTEND:20161030T150000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88528;135.2015
+CONTACT:三田市多世代交流館 シニア・ユースひろば フリースペース 079-562-8423
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENT1Mecl
+DTSTAMP:20161009T170142
+SUMMARY:10月多世代交流館 【ふらっとフェスティバル】
+DESCRIPTION:『であい・ふれいあい・ささえあい～ふらっとへGO!～』をテーマに、年に一度のお祭りを開催します！みんな遊びにきてね！  http://www.city.sanda.lg.jp/kouryuu/kosodateyouryuuhiroba28nendo/event/fesutival1030.html
+DTSTART:20161030T100000
+DTEND:20161030T150000
+LOCATION:三田市弥生が丘1-1-2
+GEO:34.88528;135.2015
+CONTACT:三田市多世代交流館 079-562-8421
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTvJcXA
+DTSTAMP:20161009T170142
+SUMMARY:就労チャレンジ体験
+DESCRIPTION:若年無業者が受入事業所で一定期間の就労を体験し、「就職」に向けて新たな可能性を見出すプログラムです。  http://www.city.sanda.lg.jp/shoukou_kankou/20150213firststep.html
+DTSTART:20161031T090000
+DTEND:20161031T170000
+LOCATION:
+GEO:;
+CONTACT:三田市および近隣市に所在する事業所 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTFwBeR
+DTSTAMP:20161009T170142
+SUMMARY:シニア向け1日陶芸教室
+DESCRIPTION:前回も好評だった教室です。ワンコインで陶芸体験OK、初心者の人もお気軽にどうぞ！  http://www.city.sanda.lg.jp/fureai/20160901siniatougei.html
+DTSTART:20161031T100000
+DTEND:20161031T140000
+LOCATION:三田市四ツ辻1129番地の1
+GEO:34.94686;135.1694
+CONTACT:ふれあいと創造の里「陶芸館」 079-568-4340
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:SANDAEVENTHyRES
+DTSTAMP:20161009T170142
+SUMMARY:10月駒ケ谷運動公園子育て交流ひろば  「保育ネットワーク・ミルク」
+DESCRIPTION:駒ケ谷運動公園体育館の講座室で毎週3日開設している、子育て中の親子が気軽に立ち寄り、自由に遊ぶことができるひろばです。おもちゃで自由に遊べるほか、子育て支援に関する講座や催し、子育てについての相談や情報提供なども行っています。  http://www.city.sanda.lg.jp/kodomo/komagatani/28nenndo/event/10miruku31.html
+DTSTART:20161031T093000
+DTEND:20161031T123000
+LOCATION:ゆりのき台1-44
+GEO:34.910977;135.179829
+CONTACT:駒ケ谷運動公園体育館 講座室 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
